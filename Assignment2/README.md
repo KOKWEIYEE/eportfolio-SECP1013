@@ -2,6 +2,7 @@
 Hello! For assignment 2, we are required to create a video based on the visit on UTMDigital and virtual talk on UTMDigital.
 
 ## ▶️Video Link
+https://youtu.be/jIAeEgVcif8
 
 ## Reflection
 During the visit, we explored various area such as Open Office, Digital Care and TM Room. The facility that is available there far exceed my 
